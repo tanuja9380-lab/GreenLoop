@@ -1,4 +1,4 @@
-const API_BASE_URL = "http://greenloop-1.onrender.com";
+const API_BASE_URL = "https://greenloop-1.onrender.com";
 
 export async function getHealth() {
   const response = await fetch(`${API_BASE_URL}/health`);
