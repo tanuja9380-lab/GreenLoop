@@ -850,6 +850,8 @@ if (!currentUser) {
                       "10px 0 0",
                     fontSize:
                       "28px",
+                    color:
+                      "#111827",   
                   }}
                 >
                   {totalWaste.toFixed(
@@ -887,6 +889,8 @@ if (!currentUser) {
                       "10px 0 0",
                     fontSize:
                       "28px",
+                    color:
+                      "#111827",     
                   }}
                 >
                   {totalCoins}
@@ -921,6 +925,8 @@ if (!currentUser) {
                       "10px 0 0",
                     fontSize:
                       "28px",
+                    color:
+                      "#111827",     
                   }}
                 >
                   {totalFamilies}
@@ -955,6 +961,8 @@ if (!currentUser) {
                       "10px 0 0",
                     fontSize:
                       "28px",
+                    color: 
+                      "#111827",     
                   }}
                 >
                   {records.length}
@@ -1001,6 +1009,7 @@ if (!currentUser) {
                       "10px 0 0",
                     fontSize:
                       "25px",
+                      color: "#111827",
                   }}
                 >
                   {dryWaste.toFixed(
@@ -1039,6 +1048,7 @@ if (!currentUser) {
                       "10px 0 0",
                     fontSize:
                       "25px",
+                    color: "#111827",   
                   }}
                 >
                   {wetWaste.toFixed(
@@ -1077,6 +1087,8 @@ if (!currentUser) {
                       "10px 0 0",
                     fontSize:
                       "25px",
+                    color:
+                     "#111827",
                   }}
                 >
                   {recyclableWaste.toFixed(
