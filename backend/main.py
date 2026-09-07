@@ -112,7 +112,7 @@ def get_current_user(
             detail="Invalid session",
         )
 
-    if session.expires_at < datetime.now(timezone.utc):
+    if session.expires_at < datetime.now(timezone.utc).replace(tzinfo=None):
         db.delete(session)
         db.commit()
 
