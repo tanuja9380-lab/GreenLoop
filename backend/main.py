@@ -229,7 +229,7 @@ def login(
         value=session_token,
         httponly=True,
         secure=True,
-        samesite="lax",
+        samesite="none",
         max_age=SESSION_DURATION_DAYS * 24 * 60 * 60,
     )
 
