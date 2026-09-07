@@ -837,7 +837,7 @@ if (!currentUser) {
                 <p
                   style={{
                     margin: 0,
-                    color: "#666",
+                    color: "#1f2937",
                     fontSize: "15px",
                   }}
                 >
@@ -874,7 +874,7 @@ if (!currentUser) {
                 <p
                   style={{
                     margin: 0,
-                    color: "#666",
+                    color: "#1f2937",
                     fontSize: "15px",
                   }}
                 >
@@ -908,7 +908,7 @@ if (!currentUser) {
                 <p
                   style={{
                     margin: 0,
-                    color: "#666",
+                    color: "#1f2937",
                     fontSize: "15px",
                   }}
                 >
@@ -942,7 +942,7 @@ if (!currentUser) {
                 <p
                   style={{
                     margin: 0,
-                    color: "#666",
+                    color: "#1f2937",
                     fontSize: "15px",
                   }}
                 >
@@ -989,7 +989,7 @@ if (!currentUser) {
                 <p
                   style={{
                     margin: 0,
-                    color: "#666",
+                    color: "#1f2937",
                   }}
                 >
                   Dry Waste
@@ -1027,7 +1027,7 @@ if (!currentUser) {
                 <p
                   style={{
                     margin: 0,
-                    color: "#666",
+                    color: "#1f2937",
                   }}
                 >
                   Wet Waste
@@ -1065,7 +1065,7 @@ if (!currentUser) {
                 <p
                   style={{
                     margin: 0,
-                    color: "#666",
+                    color: "#1f2937",
                   }}
                 >
                   Recyclable Waste
@@ -1109,7 +1109,7 @@ if (!currentUser) {
   <p
     style={{
       textAlign: "center",
-      color: "#666",
+      color: "#1f2937",
       marginBottom: "20px",
     }}
   >
@@ -1188,7 +1188,7 @@ if (!currentUser) {
                 style={{
                   textAlign:
                     "center",
-                  color: "#666",
+                  color: "#1f2937",
                   marginBottom:
                     "25px",
                 }}
