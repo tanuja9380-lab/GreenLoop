@@ -33,6 +33,7 @@ app.add_middleware(
         "http://localhost:4173",
         "http://localhost:4174",
         "http://localhost:4175",
+        "https://greenloop-web.onrender.com",
     ],
     allow_credentials=True,
     allow_methods=["*"],
