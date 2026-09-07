@@ -863,7 +863,7 @@ if (!currentUser) {
               <div
                 style={{
                   backgroundColor:
-                    "white",
+                    "#e8f5e9",
                   padding: "25px",
                   borderRadius:
                     "12px",
@@ -897,7 +897,7 @@ if (!currentUser) {
               <div
                 style={{
                   backgroundColor:
-                    "white",
+                    "#f3e8ff",
                   padding: "25px",
                   borderRadius:
                     "12px",
@@ -931,7 +931,7 @@ if (!currentUser) {
               <div
                 style={{
                   backgroundColor:
-                    "white",
+                    "#e3f2fd",
                   padding: "25px",
                   borderRadius:
                     "12px",
@@ -1014,7 +1014,7 @@ if (!currentUser) {
               <div
                 style={{
                   backgroundColor:
-                    "white",
+                    "#ffebee",
                   padding: "25px",
                   borderRadius:
                     "12px",
@@ -1052,7 +1052,7 @@ if (!currentUser) {
               <div
                 style={{
                   backgroundColor:
-                    "white",
+                    "#e0f7fa",
                   padding: "25px",
                   borderRadius:
                     "12px",
@@ -1090,7 +1090,7 @@ if (!currentUser) {
             {/* FAMILIES TABLE */}
 <section
   style={{
-    backgroundColor: "white",
+    backgroundColor: "#e8eaf6",
     padding: "25px",
     borderRadius: "12px",
     boxShadow: "0 2px 8px rgba(0,0,0,0.08)",
