@@ -826,7 +826,7 @@ if (!currentUser) {
               <div
                 style={{
                   backgroundColor:
-                    "white",
+                    "#fff8e1",
                   padding: "25px",
                   borderRadius:
                     "12px",
@@ -837,7 +837,7 @@ if (!currentUser) {
                 <p
                   style={{
                     margin: 0,
-                    color: "#1f2937",
+                    color: "#111827",
                     fontSize: "15px",
                   }}
                 >
@@ -874,7 +874,7 @@ if (!currentUser) {
                 <p
                   style={{
                     margin: 0,
-                    color: "#1f2937",
+                    color: "#111827",
                     fontSize: "15px",
                   }}
                 >
@@ -908,7 +908,7 @@ if (!currentUser) {
                 <p
                   style={{
                     margin: 0,
-                    color: "#1f2937",
+                    color: "#111827",
                     fontSize: "15px",
                   }}
                 >
@@ -942,7 +942,7 @@ if (!currentUser) {
                 <p
                   style={{
                     margin: 0,
-                    color: "#1f2937",
+                    color: "#111827",
                     fontSize: "15px",
                   }}
                 >
@@ -976,7 +976,7 @@ if (!currentUser) {
               <div
                 style={{
                   backgroundColor:
-                    "white",
+                    "#ffe0b2",
                   padding: "25px",
                   borderRadius:
                     "12px",
@@ -989,7 +989,7 @@ if (!currentUser) {
                 <p
                   style={{
                     margin: 0,
-                    color: "#1f2937",
+                    color: "#111827",
                   }}
                 >
                   Dry Waste
@@ -1027,7 +1027,7 @@ if (!currentUser) {
                 <p
                   style={{
                     margin: 0,
-                    color: "#1f2937",
+                    color: "#111827",
                   }}
                 >
                   Wet Waste
@@ -1065,7 +1065,7 @@ if (!currentUser) {
                 <p
                   style={{
                     margin: 0,
-                    color: "#1f2937",
+                    color: "#111827",
                   }}
                 >
                   Recyclable Waste
