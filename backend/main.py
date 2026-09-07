@@ -228,7 +228,7 @@ def login(
         key=SESSION_COOKIE_NAME,
         value=session_token,
         httponly=True,
-        secure=False,
+        secure=True,
         samesite="lax",
         max_age=SESSION_DURATION_DAYS * 24 * 60 * 60,
     )
